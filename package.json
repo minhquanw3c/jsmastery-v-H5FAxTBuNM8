@@ -1,0 +1,25 @@
+{
+	"name": "jsmastery-v-h5faxtbunm8",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"dev": "node --watch src/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/minhquanw3c/jsmastery-v-H5FAxTBuNM8.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/minhquanw3c/jsmastery-v-H5FAxTBuNM8/issues"
+	},
+	"homepage": "https://github.com/minhquanw3c/jsmastery-v-H5FAxTBuNM8#readme",
+	"dependencies": {
+		"dotenv": "^17.2.2",
+		"express": "^5.1.0"
+	}
+}
